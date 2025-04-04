@@ -1,0 +1,7 @@
+# Ignore node modules and build output
+node_modules/
+dist/
+.env
+
+# Optional: VS Code settings
+# .vscode/
